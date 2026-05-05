@@ -1,12 +1,14 @@
 # Your Project Name
+  'Air Mouse'
 
-| | |
-|-|-|
-|`Author` | Your full name
+#Full name
+  Melnicu Raluca-Maria
 
 ## Description
+  Souris aérienne utilisant un capteur MPU6050 et un ESP32. Le MPU6050 suit les mouvements de la main en temps réel, tandis que l'ESP32 traite les données et les     transmet via Bluetooth facilitant ainsi le contrôle de divers appareils. Je vais faire une démonstration de l'utilisation de la souris avec Processing 3.
 
 ## Motivation
+  Adapter une souris normale d'une manière qui aider les personnes handicapées ou simplement utiliser une souris d'une nouvelle façon.
 
 ## Architecture
 
@@ -21,15 +23,15 @@
 
 ### Components
 
-
-<!-- This is just an example, fill in with your actual components -->
-
 | Device | Usage | Price |
 |--------|--------|-------|
-| Activ Buzzer | Buzzer | [1.5 RON](https://www.optimusdigital.ro/ro/audio-buzzere/635-buzzer-activ-de-3-v.html?search_query=buzzer&results=61) |
-| Push Button | Button | [1 RON](https://www.optimusdigital.ro/ro/butoane-i-comutatoare/1119-buton-6x6x6.html?search_query=buton&results=222) |
-| Jumper Wires | Connecting components | [7 RON](https://www.optimusdigital.ro/ro/fire-fire-mufate/884-set-fire-tata-tata-40p-10-cm.html?search_query=set+fire&results=110) |
-| Breadboard | Project board | [10 RON](https://www.optimusdigital.ro/ro/prototipare-breadboard-uri/8-breadboard-830-points.html?search_query=breadboard&results=145) |
+| Perfboard | Perfboard | [3 RON](https://www.optimusdigital.ro/ro/prototipare-cablaje-de-test/232-cablaj-de-test.html) |
+| ESP32 board| Microcontroller | [30 RON](https://www.optimusdigital.ro/ro/placi-cu-esp32/12933-placa-de-dezvoltare-plusivo-wireless-compatibila-cu-esp32-si-ble.html) |
+| MPU6050 | détection des mouvements | [14.70 RON](https://www.optimusdigital.ro/ro/senzori-senzori-inertiali/13611-modul-accelerometru-i-giroscop-cu-3-axe-mpu6050-cu-pini-lipiti.html) |
+| Résistance | résistance | [0.10 RON](https://www.optimusdigital.ro/ro/componente-electronice-rezistoare/1859-rezistor-025w-56k.html) |
+| Slider switch | ouverture/fermeture du circuit | [0.50 RON](https://ardushop.ro/ro/butoane--switch-uri/803-slider-switch-2-pozitii-6427854010391.html) |
+| LiPo battery 3.7V | alimenter le circuit | [33 RON](https://www.emag.ro/acumulator-litiu-polimer-120mah-3-7v-liter-energy-battery-model-401230-420/pd/DW1RWVYBM/?utm_campaign=share_product&utm_source=mobile_dynamic_share&utm_medium=android) |
+
 
 ### Libraries
 
