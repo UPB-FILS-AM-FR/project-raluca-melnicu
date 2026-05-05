@@ -1,7 +1,7 @@
 # Your Project Name
   'Air Mouse'
 
-#Full name
+# Full name
   Melnicu Raluca-Maria
 
 ## Description
