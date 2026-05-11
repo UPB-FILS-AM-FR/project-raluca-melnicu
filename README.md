@@ -1,3 +1,4 @@
+<img width="441" height="543" alt="block diagram-air mouse png" src="https://github.com/user-attachments/assets/c1c505ae-9bfe-4605-9a3e-3baa0208db92" />
 # Your Project Name
   'Air Mouse'
 
@@ -15,7 +16,8 @@
 ### Block diagram
 
 <!-- Make sure the path to the picture is correct -->
-![Block Diagram](schematics/block_diagram.png)
+![Block Diagram](<img width="441" height="543" alt="block diagram-air mouse png" src="https://github.com/user-attachments/assets/c2116df9-2c3c-4962-b0da-07f14794d2fb" />
+)
 
 ### Schematic
 
