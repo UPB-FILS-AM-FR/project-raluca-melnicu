@@ -15,7 +15,7 @@
 ### Block diagram
 
 <!-- Make sure the path to the picture is correct -->
-![Block Diagram](schematics/block diagram.drawio.png)
+![Block Diagram](https://github.com/UPB-FILS-AM-FR/project-raluca-melnicu/blob/main/schematics/block%20diagram.drawio.png)
 
 ### Schematic
 
