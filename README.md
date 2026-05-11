@@ -15,7 +15,8 @@
 ### Block diagram
 
 <!-- Make sure the path to the picture is correct -->
-![Block Diagram]()
+![Block Diagram](<img width="441" height="543" alt="block diagram-air mouse png" src="https://github.com/user-attachments/assets/1594c948-7047-4501-8e17-6ed81091850d" />
+)
 
 ### Schematic
 
