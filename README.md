@@ -15,8 +15,7 @@
 ### Block diagram
 
 <!-- Make sure the path to the picture is correct -->
-![Block Diagram](<img width="441" height="543" alt="block diagram drawio" src="https://github.com/user-attachments/assets/ae620d36-3c1e-40d8-920b-3d7405055dbd" />
-)
+![Block Diagram](schematics/block diagram.drawio.png)
 
 ### Schematic
 
