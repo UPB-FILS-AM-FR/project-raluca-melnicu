@@ -19,7 +19,7 @@
 
 ### Schematic
 
-![Schematic](schematics/kicad_schematic.png)
+![Schematic](schematics/Schematic.pdf)
 
 ### Components
 
