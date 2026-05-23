@@ -19,7 +19,7 @@
 
 ### Schematic
 
-![Schematic](schematics/Schematic.pdf)
+![Schematic](schematics/Schematic.png)
 
 ### Components
 
