@@ -42,7 +42,7 @@
 |---------|-------------|-------|
 | [Arduino.h](https://github.com/arduino/ArduinoCore-avr/blob/master/cores/arduino/Arduino.h) |  Main include file for the Arduino SDK | Pour fonctions de base d'Arduino |
 | [Wire.h](https://github.com/arduino/ArduinoCore-avr/blob/master/libraries/Wire/src/Wire.h) | TWI/I2C library for Arduino & Wiring | Communication I2C-utilisée pour communiquer avec le capteur MPU6050 |
-| [Adafruit_MPU6050.h]([(https://github.com/adafruit/Adafruit_MPU6050)) |  Bibliothèque Arduino pour accéléromètre et gyroscope Adafruit MPU6050 à 6-DoF | Bibliothèque pour  MPU6050 |
+| [Adafruit_MPU6050.h](https://github.com/adafruit/Adafruit_MPU6050) |  Bibliothèque Arduino pour accéléromètre et gyroscope Adafruit MPU6050 à 6-DoF | Bibliothèque pour  MPU6050 |
 | [Adafruit_Sensor.h](https://github.com/adafruit/adafruit_sensor) |  Tout pilote prenant en charge la couche d'abstraction unifiée des capteurs Adafruit implémentera la classe de base Adafruit_Sensor | Cadre de capteurs Adafruit partagé |
 | [BleMouse.h](https://github.com/T-vK/ESP32-BLE-Mouse) |  Cette bibliothèque vous permet de faire fonctionner l'ESP32 comme une souris Bluetooth et de contrôler ses actions : déplacer la souris, faire défiler, cliquer, etc | Permet à l'ESP32 de se comporter comme une souris Bluetooth |
 
