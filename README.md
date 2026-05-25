@@ -31,6 +31,7 @@
 | Résistance | résistance | [0.10 RON](https://www.optimusdigital.ro/ro/componente-electronice-rezistoare/1859-rezistor-025w-56k.html) |
 | Slider switch | ouverture/fermeture du circuit | [0.50 RON](https://ardushop.ro/ro/butoane--switch-uri/803-slider-switch-2-pozitii-6427854010391.html) |
 | LiPo battery 3.7V | alimenter le circuit | [33 RON](https://www.emag.ro/acumulator-litiu-polimer-120mah-3-7v-liter-energy-battery-model-401230-420/pd/DW1RWVYBM/?utm_campaign=share_product&utm_source=mobile_dynamic_share&utm_medium=android) |
+| Micro USB | connexion | [40 RON]() |
 
 
 ### Libraries
@@ -39,8 +40,11 @@
 
 | Library | Description | Usage |
 |---------|-------------|-------|
-| [lib-name1](link-to-lib) | official description of the lib | Used for accesing the peripherals of the microcontroller  |
-| [lib-name2](link-to-lib) | official description of the lib | Used for accesing the peripherals of the microcontroller  |
+| [Arduino.h](https://github.com/arduino/ArduinoCore-avr/blob/master/cores/arduino/Arduino.h) |  Main include file for the Arduino SDK | Pour fonctions de base d'Arduino |
+| [Wire.h](https://github.com/arduino/ArduinoCore-avr/blob/master/libraries/Wire/src/Wire.h) | TWI/I2C library for Arduino & Wiring | Communication I2C-utilisée pour communiquer avec le capteur MPU6050 |
+| [Adafruit_MPU6050.h]([(https://github.com/adafruit/Adafruit_MPU6050)) |  Bibliothèque Arduino pour accéléromètre et gyroscope Adafruit MPU6050 à 6-DoF | Bibliothèque pour  MPU6050 |
+| [Adafruit_Sensor.h](https://github.com/adafruit/adafruit_sensor) |  Tout pilote prenant en charge la couche d'abstraction unifiée des capteurs Adafruit implémentera la classe de base Adafruit_Sensor | Cadre de capteurs Adafruit partagé |
+| [BleMouse.h](https://github.com/T-vK/ESP32-BLE-Mouse) |  Cette bibliothèque vous permet de faire fonctionner l'ESP32 comme une souris Bluetooth et de contrôler ses actions : déplacer la souris, faire défiler, cliquer, etc | Permet à l'ESP32 de se comporter comme une souris Bluetooth |
 
 ## Log
 
